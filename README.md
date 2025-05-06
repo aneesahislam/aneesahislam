@@ -1,6 +1,8 @@
 ## Hi there, I'm Aneesah 👋 
 
-I'm a software engineer specializing in full stack development.
+<p align="center">
+  I'm a software engineer specializing in full stack development.
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
