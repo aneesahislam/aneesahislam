@@ -1,8 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Aneesah 👋 
 
-My name is Aneesah
+I'm a software engineer specializing in full stack development.
 
-https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejQwNjh0OHpweHVrdnQ3Y3Yyc2UyNDk0bWptemlmZjRmdHR2YnkyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,github,html,css,js,mongodb,nodejs" />
+  </a>
+</p>
 
 <!--
 **aneesahislam/aneesahislam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
