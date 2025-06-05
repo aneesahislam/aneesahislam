@@ -10,10 +10,9 @@ For as long as I can remember, I’ve been fascinated by the complex systems tha
 </p>
 
   ## My tech stacks 😄
-  
-  <a href="https://skillicons.dev">
+
+
     <img src="https://skillicons.dev/icons?i=vscode,github,html,css,js,mongodb,nodejs" />
-  </a>
 
 
 <p align="center"></p>
