@@ -11,10 +11,10 @@ For as long as I can remember, I’ve been fascinated by the complex systems tha
 
   ## My tech stacks 😄
 
-<span>HTML</span>
-<span>CSS</span>
-<span>JavaScript</span>
-<span>Node.js</span>
+<span>HTML,</span>
+<span>CSS,</span>
+<span>JavaScript,</span>
+<span>Node.js,</span>
 <span>MongoDB</span>
 
 
