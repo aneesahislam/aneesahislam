@@ -15,7 +15,8 @@ For as long as I can remember, I’ve been fascinated by the complex systems tha
 <span>CSS,</span>
 <span>JavaScript,</span>
 <span>Node.js,</span>
-<span>MongoDB</span>
+<span>MongoDB,</span>
+<span>React</span>
 
 
 <p align="center"></p>
